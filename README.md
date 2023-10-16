@@ -15,23 +15,23 @@
  cd compose/  
  nano compose.yaml  
 
-![](![1](https://github.com/RedPeril98/Containerization/assets/120703806/e5a6a898-a3ee-4171-a66b-3ca9851028e4)
+![](![1]()
 )
 
 Добавляем содержимое файлa compose.yaml:
 
- ![](![2](https://github.com/RedPeril98/Containerization/assets/120703806/25640f3a-14ef-4451-b570-673ed840ac5b)
+ ![](![2]()
 )
 
 Запускаем .yaml файл
 
 sudo docker-compose up
 
-![](![3](https://github.com/RedPeril98/Containerization/assets/120703806/85ec8f44-348b-4b76-be30-994025e3b88d)
+![](![3]()
 )
 
-![](![4](https://github.com/RedPeril98/Containerization/assets/120703806/9daea684-a858-451c-9cf3-843e39f0ef2f)
+![](![4]()
 )
 
-![](![5](https://github.com/RedPeril98/Containerization/assets/120703806/3f77305b-dd18-477f-963e-cd6a95f1209d)
+![](![5]()
 )
