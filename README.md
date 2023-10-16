@@ -15,23 +15,23 @@
  cd compose/  
  nano compose.yaml  
 
-![](![1](https://github.com/RedPeril98/Containerization/blob/main/1.jpg)
-)
+![1](https://github.com/RedPeril98/Containerization/blob/main/1.jpg)
+
 
 Добавляем содержимое файлa compose.yaml:
 
- ![](![2](https://github.com/RedPeril98/Containerization/blob/main/2.jpg)
-)
+ ![2](https://github.com/RedPeril98/Containerization/blob/main/2.jpg)
+
 
 Запускаем .yaml файл
 
 sudo docker-compose up
 
-![](![3](https://github.com/RedPeril98/Containerization/blob/main/3.jpg)
-)
+![3](https://github.com/RedPeril98/Containerization/blob/main/3.jpg)
 
-![](![4](https://github.com/RedPeril98/Containerization/blob/main/4.jpg)
-)
 
-![](![5](https://github.com/RedPeril98/Containerization/blob/main/5.jpg)
-)
+![4](https://github.com/RedPeril98/Containerization/blob/main/4.jpg)
+
+
+![5](https://github.com/RedPeril98/Containerization/blob/main/5.jpg)
+
